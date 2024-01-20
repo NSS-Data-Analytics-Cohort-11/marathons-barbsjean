@@ -1,4 +1,4 @@
-### Nashville Rock-and-Roll Marathon and Half-Marathon Race Results (2016 - 2019)
+﻿### Nashville Rock-and-Roll Marathon and Half-Marathon Race Results (2016 - 2019)
 
 1. Create a new blank workbook and load the 8 marathon and half-marathon tables from marathons.accdb, a MS Access database called (Data --> Get Data --> From Database --> From Microsoft Access Database).  
     a. Load each table to a separate worksheet. Give the worksheets *_meaningful_* names.  
@@ -8,7 +8,7 @@
 2. Use built-in functions to answer the following questions. Be sure to display your analysis work in a neat, easy-to-follow format.    
     a. Find the fastest time, slowest time, median, and mean times for each of the 8 races.  
     b. Find the mean and median marathon finish times for all 4 years combined.  
-    c. Find the mean and median half-marathon finish times for all 4 years combined.  
+    c. Find the mean and median half-marathon finish times for all 4 years combined. ***
 
 3. First time marathoners sometimes set a goal of beating “Oprah’s time,” Oprah Winfrey’s time (04:29:20) in the 1994 Marine Corps Marathon when she was 40 years old.  
         a. How many runners each year beat Oprah’s time?  
